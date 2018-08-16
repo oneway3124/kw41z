@@ -1,6 +1,13 @@
 # kw41z
 
+MCUXpresso IDE 
+drag 
+link
+build
+
+
 # file folder
+for example, take the frdmkw41z_driver_examples_gpio_led_output as the example
 ..\board
 
 	*board_related.c  *board_related.h

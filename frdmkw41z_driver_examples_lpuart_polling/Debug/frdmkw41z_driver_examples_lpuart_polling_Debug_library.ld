@@ -5,7 +5,7 @@
  * Generated linker script file for MKW41Z512xxx4
  * Created from library.ldt by FMCreateLinkLibraries
  * Using Freemarker v2.3.23
- * MCUXpresso IDE v10.2.1 [Build 795] [2018-07-25]  on 2018-8-16 14:29:58
+ * MCUXpresso IDE v10.2.1 [Build 795] [2018-07-25]  on 2018-8-16 16:01:50
  */
 
 GROUP (
